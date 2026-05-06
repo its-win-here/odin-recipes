@@ -20,3 +20,7 @@ Odin-recipes
 |   |-- Monthinga.webp
 |   |-- ShweYinAye.jpg
 ```
+
+# How to run this?
+1. Clone this repo to your local machine.
+2. Open index.html in your web browser. 
